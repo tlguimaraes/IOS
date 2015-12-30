@@ -1,5 +1,5 @@
 //
-//  Camera.m 3D app example
+//  Camera.m
 //  Created by Thiago Guimaraes on 11/13/13.
 //  Copyright (c) 2013 Thiago Guimaraes. All rights reserved.
 //
